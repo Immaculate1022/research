@@ -1,2 +1,3 @@
-# research
-PegaConstellation Research — Academic papers and whitepapers
+# PegaConstellation Research
+
+Academic papers, whitepapers, and research initiatives.
