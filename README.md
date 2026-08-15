@@ -15,7 +15,7 @@ Academic papers, whitepapers, technical briefs, and research initiatives related
 
 | Document | Description |
 |----------|-------------|
-| [Tesseract Medium Geometry](tesseract-medium-geometry.md) | Unified construction combining Möbius twist, Klein-bottle topology, Fibonacci/φ scaling, and Mandelbrot-type fractal dynamics inside a tesseract (4D) vector medium. |
+| [Tesseract Medium Geometry](tesseract-medium-geometry.md) | Unified construction combining Möbius twist, Klein-bottle topology, Fibonacci/φ scaling, and Mandelbrot-type fractal dynamics inside a tesseract (4D) vector medium. **Runnable code:** [tesseract-medium](https://github.com/Immaculate1022/tesseract-medium) |
 
 ## Key Existing Material (distributed)
 
@@ -29,6 +29,7 @@ Most detailed papers and briefs currently live inside the main project repositor
   - Multisig Protocol 3-of-5
   - State Recovery Design Notes
 - [moebius-llama](https://github.com/Immaculate1022/moebius-llama) — self-reflective transformer architecture
+- [tesseract-medium](https://github.com/Immaculate1022/tesseract-medium) — 4D geometry substrate (lattice, dynamics, orientation)
 
 This repository serves as the long-term home for polished, standalone research artifacts as they are formalized.
 
