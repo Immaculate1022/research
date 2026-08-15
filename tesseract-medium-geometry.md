@@ -20,6 +20,8 @@ This note formalizes a single geometric–dynamical object that simultaneously c
 
 The construction is intended as a coherent mathematical substrate for resonance architectures, self-reflective computational media, hierarchical storage, and topological optimization within the broader Infinite Optical Fabric (IOF) and PegaConstellation research program.
 
+**Runnable implementation:** [Immaculate1022/tesseract-medium](https://github.com/Immaculate1022/tesseract-medium)
+
 ---
 
 ## 1. Component Inventory
@@ -107,22 +109,21 @@ State or information circulating in this medium can travel along twisted paths, 
 
 | Component | Existing PegaConstellation locus |
 |-----------|----------------------------------|
+| **Runnable implementation** | **[tesseract-medium](https://github.com/Immaculate1022/tesseract-medium)** |
 | Möbius topology & self-reflection | [moebius-llama](https://github.com/Immaculate1022/moebius-llama) |
 | Resonance / photonic / topological computing | [IOF-Resonance-Core](https://github.com/Immaculate1022/IOF-Resonance-Core) |
 | Design grammar & systems philosophy | [iof-design-grammar](https://github.com/Immaculate1022/iof-design-grammar) |
 | Central documentation | [docs](https://github.com/Immaculate1022/docs) |
 | Research home | this repository |
 
-This specification is deliberately abstract. Concrete numerical implementations, discrete lattice constructions, and software prototypes may be developed in the linked project repositories or in future dedicated codebases.
-
 ---
 
 ## 5. Status
 
 - Conceptual specification: complete (v0.1, 2026-08-15)  
+- Numerical / discrete realization: **v0.1 shipped** — see [tesseract-medium](https://github.com/Immaculate1022/tesseract-medium) (lattice, Möbius dynamics, orientation tracker, examples)  
 - Formal mathematical development (proofs, explicit embeddings, measure-theoretic properties): open  
-- Numerical / discrete realizations: open  
-- Integration with existing Möbius-Llama and IOF code: planned under AI-first maintenance
+- Deeper integration with Möbius-Llama and IOF code: open under AI-first maintenance
 
 ---
 
